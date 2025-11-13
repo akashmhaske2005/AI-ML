@@ -10,5 +10,8 @@ What I studied during the AI-ML course at Eduspark International Pvt. Ltd. Pune.
 3.File Name: Plotting on nhl dataset
  In this file I worked on nhl dataset,   I done some plotting task.
 
-File Name: Data Cleaning Techniques 
- In this file I worked on Data Cleaning Techniques used in AI/ML.
+4.File Name: Data Cleaning Techniques 
+ In this file I worked on Data Cleaning  Techniques used in AI/ML.
+
+ 5.File Name: Amazon Sales {EDA} 
+  In this file I performed exploratory    data analysis on the dataset caleed     amazon sales.
