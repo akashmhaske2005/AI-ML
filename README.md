@@ -15,3 +15,6 @@ What I studied during the AI-ML course at Eduspark International Pvt. Ltd. Pune.
 
  5.File Name: Amazon Sales {EDA} 
   In this file I performed exploratory    data analysis on the dataset caleed     amazon sales.
+
+ 6.File Name: Amazon Sales {EDA} 
+   In this file I performed task           regarding handling missing values on    building permits and nfl dataset.
