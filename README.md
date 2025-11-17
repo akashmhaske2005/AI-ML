@@ -13,8 +13,11 @@ What I studied during the AI-ML course at Eduspark International Pvt. Ltd. Pune.
 4.File Name: Data Cleaning Techniques 
  In this file I worked on Data Cleaning  Techniques used in AI/ML.
 
- 5.File Name: Amazon Sales {EDA} 
-  In this file I performed exploratory    data analysis on the dataset caleed     amazon sales.
+5.File Name: Amazon Sales {EDA} 
+ In this file I performed exploratory    data analysis on the dataset called     amazon sales.
 
- 6.File Name: Amazon Sales {EDA} 
-   In this file I performed task           regarding handling missing values on    building permits and nfl dataset.
+6.File Name:            data_cleaning_challenge_handling_missing_values
+  In this file I performed task           regarding handling missing values on    building permits and nfl dataset.
+
+7.File Name: data_cleaning_challenge_scaling_and_normalization
+ In this file I worked scaling and       normalization on kickstarters dataset
