@@ -20,4 +20,8 @@ What I studied during the AI-ML course at Eduspark International Pvt. Ltd. Pune.
   In this file I performed task           regarding handling missing values on    building permits and nfl dataset.
 
 7.File Name: data_cleaning_challenge_scaling_and_normalization
- In this file I worked scaling and       normalization on kickstarters dataset
+ In this file I worked scaling and       normalization on kickstarters dataset.
+
+8.File Name: data_cleaning_challenge_parsing_dates
+ In this file I worked parsing dates on  on a dataset.
+ 
