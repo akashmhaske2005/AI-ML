@@ -24,4 +24,7 @@ What I studied during the AI-ML course at Eduspark International Pvt. Ltd. Pune.
 
 8.File Name: data_cleaning_challenge_parsing_dates
  In this file I worked parsing dates on  on a dataset.
- 
+
+
+8.File Name: Simple linear regression:
+ In this file i performed simple         linear regression on advertisement      dataset. I predicted 'Sales' based      on 'TV'.
