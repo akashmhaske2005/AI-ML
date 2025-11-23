@@ -28,3 +28,5 @@ What I studied during the AI-ML course at Eduspark International Pvt. Ltd. Pune.
 
 8.File Name: Simple linear regression:
  In this file i performed simple         linear regression on advertisement      dataset. I predicted 'Sales' based      on 'TV'.
+ Added Advertising
+ csv file for reference of dataset used.
