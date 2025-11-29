@@ -15,6 +15,7 @@ What I studied during the AI-ML course at Eduspark International Pvt. Ltd. Pune.
 
 5.File Name: Amazon Sales {EDA} 
  In this file I performed exploratory    data analysis on the dataset called     amazon sales.
+ Amazon_sales.csv file is used as        mentioned.
 
 6.File Name:            data_cleaning_challenge_handling_missing_values
   In this file I performed task           regarding handling missing values on    building permits and nfl dataset.
