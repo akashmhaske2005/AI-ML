@@ -38,3 +38,6 @@ is present to apply code.
 
 Dataset VK-List.csv
 is present to apply code.
+
+Dataset Salary-data.csv
+is present to apply code.
