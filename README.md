@@ -41,3 +41,6 @@ is present to apply code.
 
 Dataset Salary-data.csv
 is present to apply code.
+
+
+You can access code that I used during learning AI-ML.
