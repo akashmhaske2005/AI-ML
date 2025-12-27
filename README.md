@@ -35,7 +35,10 @@ What I studied during the AI-ML course at Eduspark International Pvt. Ltd. Pune.
 9. File Name: Multi_Linear_Regression
    In this file I have performed multi     linear regression on the real estate    csv file.
    Added Real Estate csv file for          reference of dataset used.
-
+   
+10. File Name: Linear and Logistic          regression 
+      In fhis file I have performed           Logistic regression comparing           with Linear Regression.
+   
 Dataset world-happinines-index.csv
 is present to apply code.
 
