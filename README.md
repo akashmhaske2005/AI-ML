@@ -38,6 +38,9 @@ What I studied during the AI-ML course at Eduspark International Pvt. Ltd. Pune.
    
 10. File Name: Linear and Logistic          regression 
       In fhis file I have performed           Logistic regression comparing           with Linear Regression.
+
+11. File Name: Decision Tree Classifier:
+      In fhis file I have performed           Decision Tree on a dataset.
    
 Dataset world-happinines-index.csv
 is present to apply code.
