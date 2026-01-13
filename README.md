@@ -41,6 +41,9 @@ What I studied during the AI-ML course at Eduspark International Pvt. Ltd. Pune.
 
 11. File Name: Decision Tree Classifier:
       In fhis file I have performed           Decision Tree on a dataset.
+
+12. File Name: XGBoost:
+      In fhis file I have performed           XGBoost on a dataset.
    
 Dataset world-happinines-index.csv
 is present to apply code.
