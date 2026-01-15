@@ -47,7 +47,10 @@ What I studied during the AI-ML course at Eduspark International Pvt. Ltd. Pune.
 
 13. File Name: xgboost:
       In fhis file I have performed           XGBoost Algorithm on a                  dataset.
-   
+
+14. File Name: kmeans:
+      In fhis file I have performed           Kmeans clustering Algorithm on a        dataset.
+    
 Dataset world-happinines-index.csv
 is present to apply code.
 
