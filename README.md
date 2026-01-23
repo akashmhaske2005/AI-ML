@@ -51,6 +51,9 @@ What I studied during the AI-ML course at Eduspark International Pvt. Ltd. Pune.
 14. File Name: kmeans:
       In fhis file I have performed           Kmeans clustering Algorithm on a        dataset.
     
+15. File Name: dbscan_cpistering:
+      In fhis file I have performed           DBSCAN clustering Algorithm on a        dataset.
+    
 Dataset world-happinines-index.csv
 is present to apply code.
 
