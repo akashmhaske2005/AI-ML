@@ -55,6 +55,8 @@ What I studied during the AI-ML course at Eduspark International Pvt. Ltd. Pune.
     
 15. File Name: dbscan_cpistering:
       In fhis file I have performed           DBSCAN clustering Algorithm on a        dataset.
+
+    16. Added data science questions file.
     
 Dataset world-happinines-index.csv
 is present to apply code.
