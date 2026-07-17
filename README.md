@@ -72,3 +72,5 @@ You can access code that I used during learning AI-ML.
 
 If you have any doubt about code or files you can contact me.
 
+I have updated it 2 months before.
+
